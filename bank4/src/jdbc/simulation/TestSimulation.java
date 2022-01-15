@@ -10,6 +10,6 @@ public class TestSimulation {
 		simulation.simulate();
 		System.out.println(simulation.simulationResults());
 		simulation.graphicalResults();
-		System.out.println("Test push");
+		System.out.println("Test push again");
 	}
 }
